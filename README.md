@@ -8,23 +8,7 @@ LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
 
 🛠️ Technical Skills:
 
-☕ Java: Developing Java-based automation scripts utilizing Selenium WebDriver.
-
-🐍 Python: Versatility in scripting and automation with Python.
-
-🅾️ Kotlin: Proficiency in Kotlin for modern Android development.
-
-🟨 JavaScript: Crafting dynamic scripts and functionality with JavaScript.
-
-⚛️ React Native: Building responsive and robust mobile applications with React Native.
-
-🐙 Git: Efficient version control and code management using Git.
-
-🗄 SQL: Executing complex CRUD operations within SQL databases.
-
-🔄 Version Control: Organizing and overseeing codebases with GitHub.
-
-🐞 Defect Management: Accurate defect logging and management using JIRA and Azure DevOps.
+☕ Java 🐍 Python 🅾️ Kotlin 🟨 JavaScript ⚛️ React Native 🐙 Git 🗄 SQL 🔄 Version Control 🐞 Defect Management
 
 🌟 Expertise:
 
