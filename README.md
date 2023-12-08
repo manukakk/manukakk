@@ -44,7 +44,7 @@ LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
 [<img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" height="40"/>](https://www.kali.org/)
 
 
-### 🌟 Expertise:
+### 🌟 Professional Skills:
 
 🔍 Manual Testing: Diligent exploration of software to detect bugs and verify functionality.
 
