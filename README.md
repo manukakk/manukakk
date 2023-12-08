@@ -37,15 +37,12 @@ LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
 [<img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40" height="40"/>](http://appium.io/)
 [<img src="https://img.icons8.com/color/48/000000/xcode.png" width="40" height="40"/>](https://developer.apple.com/xcode/)
 
-
-
 #### Operating Systems:
 
 [<img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"/>](https://www.linux.org) 
 [<img src="https://img.icons8.com/color/48/000000/mac-os.png" width="40" height="40"/>](https://www.apple.com/macos/) 
 [<img src="https://img.icons8.com/color/48/000000/windows-logo.png" width="40" height="40"/>](https://www.microsoft.com/windows) 
 [<img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" height="40"/>](https://www.kali.org/)
-
 
 ### 🌟 Professional Skills:
 
