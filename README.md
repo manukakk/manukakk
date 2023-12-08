@@ -1,4 +1,6 @@
-👉 Let's Connect!
+![](https://komarev.com/ghpvc/?username=manukakk&color=green)
+
+### 👉 Let's Connect!
 
 I'm Manu Kakkar, a Quality Assurance Technician professional with 3.5+ years of experience. Currently working at Amazon in the Amazon Appstore team.
 
@@ -30,7 +32,7 @@ LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
 [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" height="40"/>](https://code.visualstudio.com/)
 [<img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="40" height="40"/>](https://developer.android.com/studio)
 [<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/>](https://www.postman.com/)
-[<img src="https://img.icons8.com/color/48/000000/selenium.png" width="40" height="40"/>](https://www.selenium.dev/)
+[<img src="https://icons8.com/icon/35912/selenium.png" width="40" height="40"/>](https://www.selenium.dev/)
 [<img src="https://img.icons8.com/color/48/000000/cypress.png" width="40" height="40"/>](https://www.cypress.io/)
 [<img src="https://img.icons8.com/color/48/000000/unity.png" width="40" height="40"/>](https://unity.com/)
 [<img src="https://img.icons8.com/color/48/000000/appium.png" width="40" height="40"/>](http://appium.io/)
