@@ -6,11 +6,45 @@ I'm not actively looking for a job change, but I'm always open to networking and
 
 LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
 
-🛠️ Technical Skills:
+### 🛠️ Technical Skills:
 
-☕ Java 🐍 Python 🅾️ Kotlin 🟨 JavaScript ⚛️ React Native 🐙 Git 🗄 SQL 🔄 Version Control 🐞 Defect Management
+#### Programming Languages:
 
-🌟 Expertise:
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>](https://www.java.com) 
+[<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org) 
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/>](https://kotlinlang.org) 
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>](https://www.javascript.com)
+[<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" height="40"/>](https://reactnative.dev/)
+[<img src="https://img.icons8.com/color/48/000000/swift.png" width="40" height="40"/>](https://swift.org/)
+[<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>](https://html.spec.whatwg.org/)
+[<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40"/>](https://www.iso.org/standard/63555.html)
+[<img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40" height="40"/>](https://www.jenkins.io/)
+[<img src="https://img.icons8.com/color/48/000000/jira.png" width="40" height="40"/>](https://www.atlassian.com/software/jira)
+[<img src="https://img.icons8.com/fluent/48/000000/azure-1.png" width="40" height="40"/>](https://azure.microsoft.com/)
+
+#### Tools:
+
+[<img src="https://img.icons8.com/fluent/48/000000/intellij-idea.png" width="40" height="40"/>](https://www.jetbrains.com/idea/) 
+[<img src="https://img.icons8.com/fluent/48/000000/pycharm.png" width="40" height="40"/>](https://www.jetbrains.com/pycharm/) 
+[<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" height="40"/>](https://code.visualstudio.com/)
+[<img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="40" height="40"/>](https://developer.android.com/studio)
+[<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/>](https://www.postman.com/)
+[<img src="https://img.icons8.com/color/48/000000/selenium.png" width="40" height="40"/>](https://www.selenium.dev/)
+[<img src="https://img.icons8.com/color/48/000000/cypress.png" width="40" height="40"/>](https://www.cypress.io/)
+[<img src="https://img.icons8.com/color/48/000000/unity.png" width="40" height="40"/>](https://unity.com/)
+[<img src="https://img.icons8.com/color/48/000000/appium.png" width="40" height="40"/>](http://appium.io/)
+[<img src="https://img.icons8.com/color/48/000000/xcode.png" width="40" height="40"/>](https://developer.apple.com/xcode/)
+
+#### Operating Systems:
+
+[<img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"/>](https://www.linux.org) 
+[<img src="https://img.icons8.com/color/48/000000/mac-os.png" width="40" height="40"/>](https://www.apple.com/macos/) 
+[<img src="https://img.icons8.com/color/48/000000/windows-logo.png" width="40" height="40"/>](https://www.microsoft.com/windows) 
+[<img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" height="40"/>](https://www.kali.org/)
+
+
+### 🌟 Expertise:
 
 🔍 Manual Testing: Diligent exploration of software to detect bugs and verify functionality.
 
