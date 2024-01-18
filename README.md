@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=manukakk&color=green)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Kakkar-blue)](https://www.linkedin.com/in/manu-kakkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manu%20Kakkar-lightgrey)](https://github.com/ManuKakkar)
+
 ### 👉 Let's Connect!
 
 I'm Manu Kakkar, a Quality Assurance Technician professional with 3.5+ years of experience. Currently working at Amazon in the Amazon Appstore team.
