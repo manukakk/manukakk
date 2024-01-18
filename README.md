@@ -7,6 +7,7 @@ I'm Manu Kakkar, a Quality Assurance Technician professional with 3.5+ years of 
 I'm not actively looking for a job change, but I'm always open to networking and discussing opportunities in quality assurance, test automation, and software testing. Feel free to reach out if you want to connect, discuss new technologies, or explore potential collaborations.
 
 LinkedIn: [Manu Kakkar](https://www.linkedin.com/in/manu2551988/)
+GitHub: [Manu Kakkar] (https://github.com/manu2551988)
 
 ### 🛠️ Technical Skills:
 
