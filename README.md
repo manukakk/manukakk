@@ -4,7 +4,7 @@
 
 > Quality Assurance Engineer with a passion for ensuring software excellence through innovative testing strategies and automation.
 
-I'm a **Quality Assurance Engineer** with over **6.4 years of IT experience** and **15.7 years of combined professional experience**, currently working in the **Amazon Appstore team** at **Amazon**. I specialize in developing robust test automation frameworks and implementing comprehensive QA processes.
+I'm a **Quality Assurance Engineer** with over **~5 years of IT experience**, currently working in the **Amazon Appstore team** at **Amazon**. I specialize in developing robust test automation frameworks and implementing comprehensive QA processes.
 
 ## 🌟 Current Role
 
@@ -68,15 +68,3 @@ I'm always open to discussing new technologies, quality assurance strategies, an
 I'm committed to staying updated with the latest in QA, test automation, and software development. Currently exploring cloud-native test architecture and GenAI-powered testing.
 
 ---
-
-## 🟡 Non-IT Experience (Prior to IT Career)
-
-### National Finance – Client Relationship Manager
-**Sep 2016 – Mar 2020 (3 yrs 7 mos)**
-- Managed client portfolios and provided personalized financial solutions.
-- Maintained long-term relationships and ensured high customer satisfaction.
-
-### Manu Steel & Agro Industries – Client Relationship Manager
-**Jan 2011 – Aug 2016 (5 yrs 8 mos)**
-- Led client servicing and handled operations in manufacturing domain.
-- Developed strong communication and negotiation skills applicable across domains.
